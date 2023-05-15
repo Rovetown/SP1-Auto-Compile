@@ -1,2 +1,2 @@
-# SP1-Auto-Compile
-Repository für das Auto-Compile Skript für SP1
+# Siehe:
+https://rovetowns-team.gitbook.io/sp1-setup-guide/
